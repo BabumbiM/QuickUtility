@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textViewResult" type="id" />
+    <item name="buttonClear" type="id" />
+    <item name="calendar_view" type="id" />
+    <item name="text_selected_date" type="id" />
+    <item name="text_result" type="id" />
+    <item name="button_add" type="id" />
+    <item name="button_subtract" type="id" />
+    <item name="unitSpinner" type="id" />
+    <item name="valueInput" type="id" />
+    <item name="resultDisplay" type="id" />
+    <item name="spinner_category" type="id" />
+    <item name="spinner_from_unit" type="id" />
+    <item name="spinner_to_unit" type="id" />
+    <item name="input_value" type="id" />
+    <item name="button_convert" type="id" />
+    <item name="output_value" type="id" />
+    <item name="conversion_info_textview" type="id" />
+    <item name="fab_add_event" type="id" />
+    <item name="reminder_time" type="id" />
+    <item name="button_0" type="id" />
+    <item name="button_1" type="id" />
+    <item name="button_2" type="id" />
+    <item name="button_3" type="id" />
+    <item name="button_4" type="id" />
+    <item name="button_9" type="id" />
+    <item name="button_8" type="id" />
+    <item name="button_7" type="id" />
+    <item name="button_6" type="id" />
+    <item name="button_5" type="id" />
+    <item name="button_multiply" type="id" />
+    <item name="button_divide" type="id" />
+    <item name="button_equals" type="id" />
+    <item name="button_clear" type="id" />
+</resources>

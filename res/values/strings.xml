@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QuickUtility</string>
+    <string name="calendar_image" />
+    <string name="add_event" />
+</resources>

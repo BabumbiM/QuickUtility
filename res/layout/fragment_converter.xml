@@ -1,0 +1,52 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <Spinner
+        android:id="@+id/spinner_category"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Spinner
+        android:id="@+id/spinner_from_unit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Spinner
+        android:id="@+id/spinner_to_unit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <EditText
+        android:id="@+id/input_value"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter value"
+        android:inputType="numberDecimal" />
+
+    <Button
+        android:id="@+id/button_convert"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Convert" />
+
+    <!-- Conversion Info: Label to display what the user is converting -->
+    <TextView
+        android:id="@+id/conversion_info_textview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Conversion Info"
+        android:textSize="16sp"
+        android:padding="8dp" />
+
+    <!-- Output -->
+    <TextView
+        android:id="@+id/output_value"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Result"
+        android:textSize="18sp"
+        android:padding="16dp" />
+</LinearLayout>
